@@ -1,0 +1,33 @@
+html{
+    width: 600px;
+    height: 600px;
+   
+}
+#my_face{
+    width: 150px;
+   height: 200px;
+   float: right;
+    
+}
+.sidebar{
+    background-color: blueviolet;
+    width: 100px;
+    height: 400px;
+
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: purple;
+    color: rgb(32, 31, 31);
+
+}
+header {
+    display: flex;
+  
+}
+ul{
+    list-style-type: none;
+}
+#wrapper{
+    float: right;
+}
